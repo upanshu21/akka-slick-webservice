@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/routes/LoanRequestRoutes.scala:14:26: could not find implicit value for parameter um: akka.http.scaladsl.unmarshalling.FromRequestUnmarshaller[com.knoldus.daml.routes.contract.loanrequest.CreateLoanRequest][0m
+[0m[[0m[31merror[0m] [0m[0m        (post & entity(as[CreateLoanRequest])) { loanRequest =>[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

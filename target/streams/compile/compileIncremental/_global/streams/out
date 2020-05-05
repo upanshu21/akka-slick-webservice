@@ -1,0 +1,137 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set(/home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/routes/ValidationRoutes.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(/home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/routes/MetaData.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/routes/contract/loanrequest/VerifiedRequest.scala, /home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/services/ValidationService.scala, /home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/routes/contract/loanrequest/InitialLoanRequest.scala, /home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/routes/contract/loanrequest/LoanRequirementDetails.scala, /home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/routes/contract/loanrequest/PersonalDetails.scala, /home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/routes/contract/loanrequest/ProfessionalDetails.scala, /home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/routes/LoanRequestRoutes.scala, /home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/bootstrap/RouteInstantiator.scala, /home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/routes/contract/loanrequest/CreateLoanRequest.scala, /home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/services/LoanRequestService.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(com.knoldus.daml.routes.contract.loanrequest.LoanRequirementDetails, com.knoldus.daml.routes.LoanRequestRoutes, com.knoldus.daml.bootstrap.RouteInstantiator, com.knoldus.daml.routes.contract.loanrequest.PersonalDetails, com.knoldus.daml.routes.contract.loanrequest.InitialLoanRequest, com.knoldus.daml.routes.contract.loanrequest.CreateLoanRequest, com.knoldus.daml.routes.contract.loanrequest.VerifiedRequest, com.knoldus.daml.routes.contract.loanrequest.ProfessionalDetails, com.knoldus.daml.services.ValidationService, com.knoldus.daml.services.LoanRequestService)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(com.knoldus.daml.routes.contract.loanrequest.LoanRequirementDetails, com.knoldus.daml.routes.LoanRequestRoutes, com.knoldus.daml.bootstrap.RouteInstantiator, com.knoldus.daml.routes.contract.loanrequest.PersonalDetails, com.knoldus.daml.routes.contract.loanrequest.InitialLoanRequest, com.knoldus.daml.routes.contract.loanrequest.CreateLoanRequest, com.knoldus.daml.routes.contract.loanrequest.VerifiedRequest, com.knoldus.daml.routes.contract.loanrequest.ProfessionalDetails, com.knoldus.daml.services.ValidationService, com.knoldus.daml.services.LoanRequestService)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/routes/contract/loanrequest/VerifiedRequest.scala, /home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/services/ValidationService.scala, /home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/routes/contract/loanrequest/InitialLoanRequest.scala, /home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/routes/contract/loanrequest/LoanRequirementDetails.scala, /home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/routes/contract/loanrequest/PersonalDetails.scala, /home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/routes/MetaData.scala, /home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/routes/contract/loanrequest/ProfessionalDetails.scala, /home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/routes/LoanRequestRoutes.scala, /home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/bootstrap/RouteInstantiator.scala, /home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/routes/contract/loanrequest/CreateLoanRequest.scala, /home/tobby/updated-akka-http/src/main/scala/com/knoldus/daml/services/LoanRequestService.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: com.knoldus.daml.routes.contract.loanrequest.LoanRequirementDetails, com.knoldus.daml.routes.LoanRequestRoutes, com.knoldus.daml.bootstrap.RouteInstantiator, com.knoldus.daml.routes.contract.loanrequest.PersonalDetails, com.knoldus.daml.routes.contract.loanrequest.InitialLoanRequest, com.knoldus.daml.routes.contract.loanrequest.CreateLoanRequest, com.knoldus.daml.routes.contract.loanrequest.VerifiedRequest, com.knoldus.daml.routes.contract.loanrequest.ProfessionalDetails, com.knoldus.daml.services.ValidationService, com.knoldus.daml.services.LoanRequestService[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 11 Scala sources to /home/tobby/updated-akka-http/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.5:compile for Scala 2.13.2[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.5:compile for Scala 2.13.2[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 4a314132 for Scala compiler version 2.13.2[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.2/scala-library-2.13.2.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/tobby/updated-akka-http/target/scala-2.13/classes:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.1.11/akka-http_2.13-10.1.11.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.5.26/akka-stream_2.13-2.5.26.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-spray-json_2.13/10.1.11/akka-http-spray-json_2.13-10.1.11.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/de/heikoseeberger/akka-http-play-json_2.13/1.27.0/akka-http-play-json_2.13-1.27.0.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-json_2.13/2.7.4/play-json_2.13-2.7.4.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick-codegen_2.13/3.3.2/slick-codegen_2.13-3.3.2.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.1.11/akka-http-core_2.13-10.1.11.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.5.26/akka-actor_2.13-2.5.26.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf_2.13/2.5.26/akka-protobuf_2.13-2.5.26.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.3.8/ssl-config-core_2.13-0.3.8.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/io/spray/spray-json_2.13/1.3.5/spray-json_2.13-1.3.5.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-functional_2.13/2.7.4/play-functional_2.13-2.7.4.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.2/scala-reflect-2.13.2.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10.1/joda-time-2.10.1.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.8/jackson-annotations-2.9.8.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.9.8/jackson-datatype-jdk8-2.9.8.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.9.8/jackson-datatype-jsr310-2.9.8.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick_2.13/3.3.2/slick_2.13-3.3.2.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.1.11/akka-parsing_2.13-10.1.11.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.3.3/config-1.3.3.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/0.9.0/scala-java8-compat_2.13-0.9.0.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.0.0/scala-collection-compat_2.13-2.0.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 9.905874378 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from com.knoldus.daml.routes.contract.loanrequest.InitialLoanRequest...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: com.knoldus.daml.routes.contract.loanrequest.InitialLoanRequest[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(com.knoldus.daml.routes.contract.loanrequest.InitialLoanRequest)[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe following member ref dependencies of com.knoldus.daml.routes.contract.loanrequest.InitialLoanRequest are invalidated:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.daml.routes.contract.fetchContracts.Contract[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.daml.routes.contract.loanrequest.CreateLoanRequest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.daml.services.LoanRequestService[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(com.knoldus.daml.routes.contract.loanrequest.InitialLoanRequest,ModifiedNames(changes = UsedName(InitialLoanRequest,[Implicit]), UsedName(InitialLoanRequestFormats,[Implicit]))) invalidates 4 classes due to The com.knoldus.daml.routes.contract.loanrequest.InitialLoanRequest has the following implicit definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(InitialLoanRequest,[Implicit]), UsedName(InitialLoanRequestFormats,[Implicit]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(com.knoldus.daml.routes.contract.loanrequest.InitialLoanRequest)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by member reference: Set(com.knoldus.daml.services.LoanRequestService, com.knoldus.daml.routes.contract.loanrequest.CreateLoanRequest, com.knoldus.daml.routes.contract.fetchContracts.Contract)[0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from com.knoldus.daml.routes.contract.loanrequest.CreateLoanRequest...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: com.knoldus.daml.routes.contract.loanrequest.CreateLoanRequest[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(com.knoldus.daml.routes.contract.loanrequest.CreateLoanRequest)[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe following member ref dependencies of com.knoldus.daml.routes.contract.loanrequest.CreateLoanRequest are invalidated:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.daml.routes.LoanRequestRoutes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.daml.services.LoanRequestService[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(com.knoldus.daml.routes.contract.loanrequest.CreateLoanRequest,ModifiedNames(changes = UsedName(CreateLoanRequest,[Implicit]), UsedName(CreateLoanRequestReads,[Implicit]))) invalidates 3 classes due to The com.knoldus.daml.routes.contract.loanrequest.CreateLoanRequest has the following implicit definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(CreateLoanRequest,[Implicit]), UsedName(CreateLoanRequestReads,[Implicit]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(com.knoldus.daml.routes.contract.loanrequest.CreateLoanRequest)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by member reference: Set(com.knoldus.daml.services.LoanRequestService, com.knoldus.daml.routes.LoanRequestRoutes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from com.knoldus.daml.routes.contract.loanrequest.ProfessionalDetails...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: com.knoldus.daml.routes.contract.loanrequest.ProfessionalDetails[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(com.knoldus.daml.routes.contract.loanrequest.ProfessionalDetails)[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe following member ref dependencies of com.knoldus.daml.routes.contract.loanrequest.ProfessionalDetails are invalidated:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.daml.routes.contract.loanrequest.InitialLoanRequest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.daml.routes.contract.loanrequest.VerifiedRequest[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(com.knoldus.daml.routes.contract.loanrequest.ProfessionalDetails,ModifiedNames(changes = UsedName(CollateralDetailsFormats,[Implicit]), UsedName(CollateralDetails,[Implicit]))) invalidates 3 classes due to The com.knoldus.daml.routes.contract.loanrequest.ProfessionalDetails has the following implicit definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(CollateralDetailsFormats,[Implicit]), UsedName(CollateralDetails,[Implicit]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(com.knoldus.daml.routes.contract.loanrequest.ProfessionalDetails)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by member reference: Set(com.knoldus.daml.routes.contract.loanrequest.VerifiedRequest, com.knoldus.daml.routes.contract.loanrequest.InitialLoanRequest)[0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from com.knoldus.daml.routes.contract.loanrequest.LoanRequirementDetails...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: com.knoldus.daml.routes.contract.loanrequest.LoanRequirementDetails[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(com.knoldus.daml.routes.contract.loanrequest.LoanRequirementDetails)[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe following member ref dependencies of com.knoldus.daml.routes.contract.loanrequest.LoanRequirementDetails are invalidated:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.daml.routes.contract.loanrequest.InitialLoanRequest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.daml.routes.contract.loanrequest.VerifiedRequest[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(com.knoldus.daml.routes.contract.loanrequest.LoanRequirementDetails,ModifiedNames(changes = UsedName(LoanRequirementDetailsFormats,[Implicit]), UsedName(LoanRequirementDetails,[Implicit]))) invalidates 3 classes due to The com.knoldus.daml.routes.contract.loanrequest.LoanRequirementDetails has the following implicit definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(LoanRequirementDetailsFormats,[Implicit]), UsedName(LoanRequirementDetails,[Implicit]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(com.knoldus.daml.routes.contract.loanrequest.LoanRequirementDetails)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by member reference: Set(com.knoldus.daml.routes.contract.loanrequest.VerifiedRequest, com.knoldus.daml.routes.contract.loanrequest.InitialLoanRequest)[0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from com.knoldus.daml.routes.contract.loanrequest.PersonalDetails...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: com.knoldus.daml.routes.contract.loanrequest.PersonalDetails[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(com.knoldus.daml.routes.contract.loanrequest.PersonalDetails)[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe following member ref dependencies of com.knoldus.daml.routes.contract.loanrequest.PersonalDetails are invalidated:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.daml.routes.contract.loanrequest.InitialLoanRequest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.daml.routes.contract.loanrequest.VerifiedRequest[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(com.knoldus.daml.routes.contract.loanrequest.PersonalDetails,ModifiedNames(changes = UsedName(PersonalDetailsFormat,[Implicit]), UsedName(PersonalDetails,[Implicit]))) invalidates 3 classes due to The com.knoldus.daml.routes.contract.loanrequest.PersonalDetails has the following implicit definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(PersonalDetailsFormat,[Implicit]), UsedName(PersonalDetails,[Implicit]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(com.knoldus.daml.routes.contract.loanrequest.PersonalDetails)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by member reference: Set(com.knoldus.daml.routes.contract.loanrequest.VerifiedRequest, com.knoldus.daml.routes.contract.loanrequest.InitialLoanRequest)[0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from com.knoldus.daml.routes.contract.loanrequest.VerifiedRequest...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: com.knoldus.daml.routes.contract.loanrequest.VerifiedRequest[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(com.knoldus.daml.routes.contract.loanrequest.VerifiedRequest)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(com.knoldus.daml.routes.contract.loanrequest.VerifiedRequest,ModifiedNames(changes = UsedName(VerifiedRequestFormat,[Implicit]), UsedName(VerifiedRequest,[Implicit]))) invalidates 1 classes due to The com.knoldus.daml.routes.contract.loanrequest.VerifiedRequest has the following implicit definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(VerifiedRequestFormat,[Implicit]), UsedName(VerifiedRequest,[Implicit]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(com.knoldus.daml.routes.contract.loanrequest.VerifiedRequest)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set(com.knoldus.daml.routes.LoanRequestRoutes, com.knoldus.daml.routes.contract.fetchContracts.Contract, com.knoldus.daml.services.LoanRequestService)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: com.knoldus.daml.routes.LoanRequestRoutes, com.knoldus.daml.routes.contract.fetchContracts.Contract, com.knoldus.daml.services.LoanRequestService[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding com.knoldus.daml.bootstrap.RouteInstantiator by com.knoldus.daml.routes.LoanRequestRoutes[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding com.knoldus.daml.HttpServerApp by com.knoldus.daml.bootstrap.RouteInstantiator[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding com.knoldus.daml.services.LoanRequestService by com.knoldus.daml.HttpServerApp[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding com.knoldus.daml.bootstrap.ServiceInstantiator by com.knoldus.daml.services.LoanRequestService[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding com.knoldus.daml.routes.contract.fetchContracts.Result by com.knoldus.daml.routes.contract.fetchContracts.Contract[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated classes: com.knoldus.daml.routes.LoanRequestRoutes, com.knoldus.daml.routes.contract.fetchContracts.Contract, com.knoldus.daml.services.LoanRequestService[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: com.knoldus.daml.routes.LoanRequestRoutes, com.knoldus.daml.routes.contract.fetchContracts.Contract, com.knoldus.daml.services.LoanRequestService[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 3 Scala sources to /home/tobby/updated-akka-http/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.5:compile for Scala 2.13.2[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.5:compile for Scala 2.13.2[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler eb26747 for Scala compiler version 2.13.2[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.2/scala-library-2.13.2.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/tobby/updated-akka-http/target/scala-2.13/classes:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.1.11/akka-http_2.13-10.1.11.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.5.26/akka-stream_2.13-2.5.26.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-spray-json_2.13/10.1.11/akka-http-spray-json_2.13-10.1.11.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/de/heikoseeberger/akka-http-play-json_2.13/1.27.0/akka-http-play-json_2.13-1.27.0.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-json_2.13/2.7.4/play-json_2.13-2.7.4.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick-codegen_2.13/3.3.2/slick-codegen_2.13-3.3.2.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.1.11/akka-http-core_2.13-10.1.11.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.5.26/akka-actor_2.13-2.5.26.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf_2.13/2.5.26/akka-protobuf_2.13-2.5.26.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.3.8/ssl-config-core_2.13-0.3.8.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/io/spray/spray-json_2.13/1.3.5/spray-json_2.13-1.3.5.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-functional_2.13/2.7.4/play-functional_2.13-2.7.4.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.2/scala-reflect-2.13.2.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10.1/joda-time-2.10.1.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.8/jackson-annotations-2.9.8.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.9.8/jackson-datatype-jdk8-2.9.8.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.9.8/jackson-datatype-jsr310-2.9.8.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick_2.13/3.3.2/slick_2.13-3.3.2.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.1.11/akka-parsing_2.13-10.1.11.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.3.3/config-1.3.3.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/0.9.0/scala-java8-compat_2.13-0.9.0.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar:/home/tobby/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.0.0/scala-collection-compat_2.13-2.0.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 1.63475848 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from com.knoldus.daml.routes.LoanRequestRoutes...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: com.knoldus.daml.routes.LoanRequestRoutes[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(com.knoldus.daml.routes.LoanRequestRoutes)[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of com.knoldus.daml.bootstrap.RouteInstantiator. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(com.knoldus.daml.routes.LoanRequestRoutes,ModifiedNames(changes = UsedName(finalize,[Default]))) invalidates 1 classes due to The com.knoldus.daml.routes.LoanRequestRoutes has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(com.knoldus.daml.routes.LoanRequestRoutes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m
